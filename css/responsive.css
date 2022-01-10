@@ -1,0 +1,269 @@
+@media (min-width: 320px) and (max-width: 575px){
+    /* ==========================================
+                responsive finished
+    ============================================= */
+    header .item {
+        border-right: none;
+        margin-top: 0px;
+    }
+
+    header .icon {
+        text-align: left;
+        margin-top: -20px;
+    }
+    header .icon i {
+        padding-left: 10px;
+    }
+    nav .navbar-brand img{
+        width: 100px;
+    }
+    nav button {
+        margin-right: -100px;
+    }
+    nav button i{
+        color: white;
+    }
+    nav a i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+   
+    nav ul li ul li a:hover  {
+        background: #fff;
+    }
+
+    #banner-part .overlay .info-box {
+        width: auto;
+        background: transparent;
+        padding: 0;
+        color: #fff;
+    }
+    #banner-part .overlay .info-box h2 {
+        font-size: 30px;
+    }
+    #solution-part .item {
+        width: auto;
+    }
+    #solution-part .years h1 {
+        font-size: 65px;
+    }
+    #solution-part .years p {
+        font-size: 17px;
+    }
+    #solution-part .col-lg-7 h2 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    #business-part .col-lg-7 img {
+        position: static;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    #business-part .col-lg-5 h3 {
+        font-size: 30px;
+    }
+    #business-part .col-lg-5 .item::after {
+        width: 100%;
+        top: 82px;
+        left: -4px;
+    }
+    #business-part .col-lg-5 p {
+        width: auto;
+    }
+    #business-part .col-lg-5 .icon .main .text h3 {
+        font-size: 19px;
+        margin-left: 0px;
+    }
+    #business-part .col-lg-5 .icon .main .text p {
+        width: 244px;
+        margin-left: 0;
+    }
+    #business-part .col-lg-5 .icon {
+        margin-bottom: 80px;
+    }
+    #offering-part .col-lg-4 h3 {
+        font-size: 30px;
+        width: auto;
+        margin-top: 42px;
+    }
+    #offering-part .col-lg-8::after {
+        height: 3px;
+        top: 5px;
+        left: 7px;
+        width: 282px;
+    }
+    #offering-part .col-lg-8 p {
+        width: auto;
+        margin-top: 30px;
+        margin-left: 0;
+    }
+    #offering-part .item p {
+        width: auto;
+        margin-left: 0px;
+    }
+    #offering-part .col-lg-4 h3 {
+        width: auto;
+        margin-left: 0px;
+        font-size: 24px;
+    }
+    #offering-part .item {
+        width: auto;
+        margin-bottom: 40px;
+    }
+    #team-part .team-text-part h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    #team-part .team-text-part::after {
+        top: 74px;
+        left: 0;
+        width: 100%;
+    }
+    #team-part .team-text-part p {
+        width: auto;
+        margin-left: 0;
+    }
+    #team-part .item {
+        width: auto;
+        margin-bottom: 20px;
+    }
+    #counter-part-start .counter-overlay .counter-item h2 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    #counter-part-start .counter-overlay .counter-item p {
+        font-size: 16px;
+    }
+    #FAQ-part-start .col-lg-5 .item h3 {
+        font-size: 30px;
+    }
+    #FAQ-part-start .col-lg-5 .item::after {
+        width: 100%;
+        top: 81px;
+        left: -5px;
+    }
+    #FAQ-part-start .col-lg-5 .item p {
+        font-size: 16px;
+        width: auto;
+    }
+    #FAQ-part-start .item-02{
+        margin-bottom: 30px;
+    }
+    #FAQ-part-start .accordion-button {
+        font-size: 18px;
+    }
+    #FAQ-part-start .accordion-body p{
+        font-size: 15px;
+    }
+    #FAQ-part-start .col-lg-7 .item-02 {
+        width: auto;
+        position: static;
+    }
+    #register-part-start {
+        margin-top: -108px;
+    }
+    #register-part-start .register-text-part h2 {
+        font-size: 30px;
+        margin-top: -40px;
+    }
+    #register-part-start .register-text-part::after {
+        width: 100%;
+        top: 35px;
+        left: 0;
+    }
+    #register-part-start .register-text-part p {
+        width: auto;
+        margin-left: 0;
+        font-size: 15px;
+    }
+    #register-part-start .item {
+        width: auto;
+        margin-bottom: 30px;
+    }
+    #register-part-start .item .box {
+        width: auto;
+    }
+    #register-part-start .item .box h2 {
+        font-size: 35px;
+        margin-top: 15px;
+    }
+    #register-part-start .item .box p {
+        font-size: 21px;
+        margin-top: 20px;
+    }
+    #register-part-start .item p {
+        font-size: 17px;
+    }
+    #design-part-start .design-text-part h2 {
+        font-size: 30px;
+    }
+    #design-part-start .design-text-part::after {
+        top: 81px;
+        left: 45px;
+        width: 221px;
+    }
+    #design-part-start .design-text-part p {
+        width: auto;
+        margin-left: 0;
+        font-size: 16px;
+    }
+    #design-part-start .design-text-part::after {
+        top: 41px;
+        left: 0;
+        width: 100%;
+    }
+    #design-part-start .item .identity p {
+        position: static;
+    }
+    #mission-part-start .item-02 .headline h2 {
+        font-size: 30px;
+        margin-top: 27px;
+        width: auto;
+    }
+    #mission-part-start .item-02 .headline::after {
+        width: 100%;
+        background: none;
+    }
+    #mission-part-start .item {
+        width: auto;
+        margin-left: 0;
+    }
+    #news-part-start .news-text::after {
+        top: 50px;
+        left: 0;
+        width: 100%;
+    }
+    #news-part-start .news-text p {
+        width: auto;
+        margin-left: 0;
+        font-size: 15px;
+    }
+    #news-part-start .card .img-scale {
+        width: auto;
+    }
+    #news-part-start .mini-box {
+        width: auto;
+    }
+    #news-part-start .card p {
+        width: auto;
+    }
+    #footer-part-start .item-02 h3 {
+        font-size: 30px;
+        width: auto;
+        margin-top: 21px;
+    }
+    #footer-part-start .item-02 p a {
+        font-size: 15px;
+    }
+    #footer-part-start .last-info {
+        margin-left: -21px;
+    }
+    #footer-part-start .copyright p {
+        font-size: 15px;
+    }
+    /* ==========================================
+                responsive finished
+    ============================================= */
+}
